@@ -1,7 +1,22 @@
 {
   "url": "https://ton-connect.github.io/demo-dapp-with-react-ui/",
-  "name": "Chifr app",
+  "name": "My first Ton Connect app",
   "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
   "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
-  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
+  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt",
+  "walletsList": [
+    {
+      "name": "Tonkeeper",
+      "imageUrl": "https://tonkeeper.com/logo.png",
+      "universalLink": "https://tonkeeper.com/link",
+      "deepLink": "tonkeeper://link"
+    },
+    {
+      "name": "MyCustomWallet",
+      "imageUrl": "https://example.com/my-wallet-icon.png",
+      "universalLink": "https://mycustomwallet.com/universal-link",
+      "deepLink": "mycustomwallet://deeplink"
+    }
+  ]
 }
+
