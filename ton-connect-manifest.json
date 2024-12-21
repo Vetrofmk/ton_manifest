@@ -12,10 +12,10 @@
       "deepLink": "tonkeeper://link"
     },
     {
-      "name": "MyCustomWallet",
-      "imageUrl": "https://example.com/my-wallet-icon.png",
-      "universalLink": "https://mycustomwallet.com/universal-link",
-      "deepLink": "mycustomwallet://deeplink"
+      "name": "MyTonWallet",
+      "imageUrl": "https://example.com/mytonwallet-icon.png",
+      "universalLink": "https://mytonwallet.com/link",
+      "deepLink": "mytonwallet://link"
     }
   ]
 }
